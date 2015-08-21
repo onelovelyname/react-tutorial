@@ -22,5 +22,13 @@
     {
         "author": "Daniel",
         "text": "I'm Melanie's brother!"
+    },
+    {
+        "author": "Melanie",
+        "text": "hiyo! this is pretty cool optimistic loading"
+    },
+    {
+        "author": "eric",
+        "text": "this is so cool"
     }
 ]
